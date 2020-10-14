@@ -1,2 +1,2 @@
 # DashandPlotly
-Pyhton codes for creating interactive web apps with dash and plotly
+Contains Files, codes used to deploy dash web app
